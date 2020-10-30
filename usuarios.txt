@@ -1,0 +1,5 @@
+usuario: dueño, contraseña: 1234
+usuario: admin1, contraseña: naranja
+usuario: admin2, contraseña: manzana
+Informe útil: inventario de productos a reponer
+ para el dueño generado por otros administradores.
